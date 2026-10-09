@@ -1,0 +1,6 @@
+I need to find the fundamental frequency - whatever that is using unshifted Inverse iteration
+I need to find target Intermediate 
+Use |x(k+1) - xk| < TOL and k = maxIters for the convergence.
+I need to solve determining the natural frequencies and mode shapes of a mechanic spring system.
+
+I need to start with coding all of the linear algebra first.
